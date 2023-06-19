@@ -1,6 +1,25 @@
-.App {
-  text-align: center;
+.upper {
+  height: 15vh;
+  background-color: #FFFFFF;
+  display: flex;
 }
+
+.upper-left {
+  display: flex;
+  margin-right: 5vw;
+}
+
+.upper-left h1 {
+  
+}
+
+.lower {}
+
+.lower-left {
+  
+}
+
+.lower-right {}
 
 .App-logo {
   height: 40vmin;
@@ -32,6 +51,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
